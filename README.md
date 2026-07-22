@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -19,4 +20,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
+## Array
+|  |
+| ------- |
+| [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
 <!---LeetCode Topics End-->
