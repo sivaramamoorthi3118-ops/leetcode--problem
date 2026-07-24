@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0242-valid-anagram) |
 | [0415-add-strings](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0415-add-strings) |
 | [0709-to-lower-case](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0242-valid-anagram) |
 | [0705-design-hashset](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
@@ -46,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1114-print-in-order) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
