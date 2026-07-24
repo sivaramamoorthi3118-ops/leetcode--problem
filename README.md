@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
+| [1396-design-underground-system](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1396-design-underground-system) |
 ## Simulation
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1002-find-common-characters) |
+| [1396-design-underground-system](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1396-design-underground-system) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/0705-design-hashset) |
+| [1396-design-underground-system](https://github.com/sivaramamoorthi3118-ops/leetcode--problem/tree/master/1396-design-underground-system) |
 ## Hash Function
 |  |
 | ------- |
